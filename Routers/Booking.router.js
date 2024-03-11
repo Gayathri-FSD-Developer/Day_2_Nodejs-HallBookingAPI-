@@ -10,5 +10,4 @@ router.get('/getAllBookingData',bookedHallDetails)
 router.get('/getCustomerBookingData',bookedHallDetailsWithCustomer)
 router.get('/customerBookingCount/:name',customerCount)
 
-
 export default router
