@@ -15,14 +15,6 @@ Server Connected Successfully🌐
 <div style="background-color: #41a0a0; border-radius: 25px;text-align: center;">
 <br>
 <h2>Please check the below API's🖥</h2>
-
-//    📝 <a href="http://localhost:4000/hallbooking/create-hall">API to Create new hall(postman hit with required data)✍</a><br>
-//    <br>
-//    📝 <a href="http://localhost:4000/hallbooking/booking-hall">API to Book the hall(postman hit with required data)</a><br>
-//    <br>🧾<a href="http://localhost:4000/hallbooking/getAllBookingData">API to getall the bookings</a><br>
-//   <br> 🧾<a href="http://localhost:4000/hallbooking/getCustomerBookingData">API to getall booking with customer data👉</a><br>
-//   <br> 🧾<a href="http://localhost:4000/hallbooking/customerBookingCount/:name">API to count the booking👉(postman hit with required data)</a>
-//   <br><br>
    📝 <a href="https://day-2-nodejs-hallbookingapi.onrender.com/hallbooking/create-hall">API to Create new hall(postman hit with required data)✍</a><br>
    <br>
    📝 <a href="https://day-2-nodejs-hallbookingapi.onrender.com/hallbooking/booking-hall">API to Book the hall(postman hit with required data)</a><br>
